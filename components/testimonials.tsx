@@ -8,7 +8,7 @@ export default function Testimonials() {
 
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
         <div className="py-8 md:py-16">
-          <div className="max-w-3xl mx-auto text-center md:pb-16">
+          <div className="max-w-3xl mx-auto text-center md:pb-12 mt-12">
             <h2 className="h2">CONTACTO</h2>
           </div>
           <div className="relative flex flex-col items-center">
